@@ -34,3 +34,7 @@ makeCacheMatrix <- function(x = matrix()) {
       x$setInv(m) 
       m 
   }
+  
+  
+  ## I used outside resources such as chatrooms and message boards to help
+  ## write the code for this project.
